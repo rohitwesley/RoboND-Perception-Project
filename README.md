@@ -8,7 +8,7 @@
 You're reading it!
 
 ### Exercise 1, 2 and 3 pipeline implemented :
-The exercise project readme has a detailed explanation about how I went about these steps : [senso stick](https://github.com/rohitwesley/sensor_stick)
+The exercise project readme has a detailed explanation about how I went about these steps : [sensor stick](https://github.com/rohitwesley/sensor_stick)
 
 ### Pick and Place Setup
 
